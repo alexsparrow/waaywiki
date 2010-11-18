@@ -25,18 +25,18 @@ Status
 to fork and improve :-)
 
 Here are the currently supported features:
-*  Basic wiki functionality: create/edit pages
-*  Markup with markmin
-*  Versioning with git
-*  View history, revert and view previous versions
+-  Basic wiki functionality: create/edit pages
+-  Markup with markmin
+-  Versioning with git
+-  View history, revert and view previous versions
 
 Here are some things in particular that need doing:
-*  Delete pages
-*  Add attachments
-*  Improve the interface
-*  git push/pull and diff/merge interface
-*  Themes/customisation
-*  Markdown/reStructured text support
-*  PDF export
-*  Search/tags/index etc.
+-  Delete pages
+-  Add attachments
+-  Improve the interface
+-  git push/pull and diff/merge interface
+-  Themes/customisation
+-  Markdown/reStructured text support
+-  PDF export
+-  Search/tags/index etc.
 
